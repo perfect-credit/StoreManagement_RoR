@@ -1,0 +1,17 @@
+{
+  "order": {
+    "name": "#1001",
+    "line_items": [
+      {
+        "sku": "SRT_COT_122",
+        "quantity": 1,
+        "estimated_delivery_date": "2025-07-15"
+      },
+      {
+        "sku": "SRT_COT_433",
+        "quantity": 2,
+        "estimated_delivery_date": "2025-08-01"
+      }
+    ]
+  }
+}
