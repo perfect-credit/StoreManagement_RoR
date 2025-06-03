@@ -1,4 +1,4 @@
-# Shopify Backend Challenge - Order Delivery Date Service
+# Shopify Backend Challenge(RoR) - Order Delivery Date Service
 
 ## Quick Start
 
